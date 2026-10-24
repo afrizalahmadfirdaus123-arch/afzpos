@@ -1,0 +1,6 @@
+{
+  "name": "AfzPOS - Smart Cashier Terminal",
+  "description": "High-speed point of sale terminal with real-time order management, multi-tender payment processing, cash drawer tracking, thermal receipt generator, and shift analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
